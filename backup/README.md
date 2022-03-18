@@ -2,7 +2,7 @@
 
 This script allows you to backup every minute and delete old backups
 
-# Starts
+# Start script
 
 Add to crontab
 
